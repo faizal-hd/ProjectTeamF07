@@ -1,6 +1,6 @@
 @media (max-width: 1000px) {
 .header{
-  width:680px;
+  width:100%px;
 }
 .footer-list{
     width: 50%;
@@ -29,7 +29,7 @@
 
 @media (max-width:670px) {
   .header{
-    width:340px;
+    width:100%;
   }
   .header img{
     display:block;
