@@ -29,7 +29,7 @@ li {
   color: #333333;
   height: 90px;
   position:fixed;
-  width:1182px;
+  width:100%;
   z-index:10;
 }
 
